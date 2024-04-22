@@ -1,20 +1,9 @@
 <script setup>
-    
-import {} from 'vue'
-    // props
-
-    // Reactive Values
-
-    // Computed Properties
-
-    // Watchers
-
-    // Lifecycle hooks
-
+import ContadorComp from '../components/ContadorComp.vue';
 </script>
 
 <template>
-    <h1 class="title-home">Hola soy la vista Home</h1>
+    <ContadorComp/>
 </template>
 
 <style scoped>

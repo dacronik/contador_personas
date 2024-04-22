@@ -10,12 +10,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 Este proyecto implementa un Contador Manual de Personas utilizando Vue.js, WebSocket y Tailwind CSS. Permite sumar y restar personas manualmente, y actualiza el contador en tiempo real utilizando WebSocket.
 
-## Capturas de Pantalla
-
-![Captura de pantalla del contador](/screenshots/contador.png)
-
 ## Características
-
 - Sumar y restar personas manualmente.
 - Actualización en tiempo real del contador utilizando WebSocket./no logrado por error en la conexión
 - Estilos atractivos con Tailwind CSS.
@@ -23,21 +18,19 @@ Este proyecto implementa un Contador Manual de Personas utilizando Vue.js, WebSo
 ## Instalación
 
 1. Clona este repositorio:
-
 ```bash
-git clone https://github.com/tu-usuario/contador-manual.git'''
-
+git clone https://github.com/tu-usuario/contador-manual.git
+```
 2. Instala las dependencias:
-
+```bash
 cd contador-manual
 npm install
-
+```
 3. Inicia la aplicación:
-
+```bash
 npm run serve
+```
 
 ## Uso
-
-
 - Visita http://localhost:8080 en tu navegador.
-- Haz clic en los botones "Sumar" o "Restar" para      modificar el contador manualmente.
+- Haz clic en los botones "Sumar" o "Restar" para modificar el contador manualmente.

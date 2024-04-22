@@ -25,7 +25,7 @@ Este proyecto implementa un Contador Manual de Personas utilizando Vue.js, WebSo
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/contador-manual.git'''
+git clone https://github.com/tu-usuario/contador-manual.git```
 
 2. Instala las dependencias:
 
